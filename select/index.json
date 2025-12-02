@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "AMAZING BREAK",
+  "base_artist": "TERRASPEX",
+  "createdAt": "2025-12-02T16:47:15.296872Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Big Rube Amazing Break",
+      "artist": "Goodie Mob",
+      "has_synced": true,
+      "path": "select/01_Big_Rube_Amazing_Break_Goodie_Mob.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Big Rube’s Amazing Break",
+      "artist": "Goodie Mob",
+      "has_synced": true,
+      "path": "select/02_Big_Rube’s_Amazing_Break_Goodie_Mob.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "AMAZING BREAK",
+      "artist": "TERRASPEX",
+      "has_synced": true,
+      "path": "select/03_AMAZING_BREAK_TERRASPEX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "AMAZING BREAK",
+      "artist": "Sayaka Sasaki",
+      "has_synced": false,
+      "path": "select/04_AMAZING_BREAK_Sayaka_Sasaki.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "AMAZING BREAK",
+      "artist": "TERRASPEX",
+      "has_synced": false,
+      "path": "select/05_AMAZING_BREAK_TERRASPEX.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "AMAZING BREAK",
+      "artist": "佐咲紗花",
+      "has_synced": false,
+      "path": "select/06_AMAZING_BREAK_佐咲紗花.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AMAZING BREAK",
+      "artist": "TERRASPEX",
+      "has_synced": false,
+      "path": "select/pl_01_AMAZING_BREAK_TERRASPEX.txt"
+    }
+  ]
+}
